@@ -1,7 +1,7 @@
 # Follow the below steps:
 
 # To download the full code for the app along with all other necessary images, icons, etc.
-Download the jersey.zip file.
+Download the jersey(android).zip file.
 
 For blackbook documentation download this pdf file below named:
 
